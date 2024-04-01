@@ -1,0 +1,8 @@
+# Ignore all files in the output folder except for the README
+output/*
+!output/README.md
+
+# Ignore all files in the data folder except for the README
+data/*
+!data/README.md
+
